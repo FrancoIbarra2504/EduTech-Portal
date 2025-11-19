@@ -2,8 +2,9 @@
 Coloquio UDI
 
 Asignacion de Tareas: 
-Product Owner : Gonzalo Villada
 
-Scrum Master : Franco Ibarra 
+Gonzalo Villada: Creacion de las Distintas Ramas
 
-Team Developer : Sfardini Gian
+Franco Ibarra : Creacion de cada Archivo.txt en las HU
+
+Sfardini Gian : Encargado de aprobar los pull request 
