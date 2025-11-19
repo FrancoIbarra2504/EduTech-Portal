@@ -8,6 +8,8 @@ Gonzalo Villada: Creacion de las Distintas Ramas
 Franco Ibarra : Creacion de cada Archivo.txt en las HU
 
 Sfardini Gian : Encargado de aprobar los pull request 
+
+
 -----------------------------------------------------------------------------------------------------------------
 Daily Scrum (5 minutos)
 
